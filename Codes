@@ -176,5 +176,18 @@
 		},
 
 		"ReedemOnce": true
+	},
+
+ 	 {
+		"RewardType": "Booster",
+		"Code": "Quest",
+   		"AwardMessage": "Free Luck Potion!",
+
+		"Data": {
+			"BoosterName": "DoubleLuck",
+			"Potions": 1
+		},
+
+		"ReedemOnce": true
 	}
 ]
